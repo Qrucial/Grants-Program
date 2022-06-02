@@ -30,8 +30,9 @@ Please provide the following:
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
+- The high level overview can be found in the Litepaper: <TBA>
+- Topology TBA
+- Research and meeting notes to be added and their results
 - An overview of the technology stack to be used
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
@@ -86,9 +87,10 @@ knockoff intro
 
 ### Team Code Repos
 
-- https://github.com/QRUCIAL
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+- https://github.com/Qrucial/QRUCIAL-DAO
+- https://github.com/Qrucial/Hacking_Substrate_with_Chaos_Pallet
+- https://github.com/Qrucial/SafuDot
+- https://github.com/Qrucial/QRUCIAL_Audits
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
@@ -138,26 +140,25 @@ For each milestone,
 
 - **Estimated duration:** 3 months
 - **FTE:**  2
-- **Costs:** 23,000 USD
+- **Costs:** 20,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | Apache 2.0 |
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Substrate module: X | We will create a Substrate module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Substrate module: Y | We will create a Substrate module that will... |  
-| 3. | Substrate module: Z | We will create a Substrate module that will... |  
-| 4. | Substrate chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. Docker images will also be prepared for the Exogenous tools. |
+| 0e. | Article | We will publish **articles** and conduct workshop that explain QRUCIAL DAO. These will appear on QRUCIAL blog and the workshops will be conducted at Polkadot meetups (eg. Polkadot Hungary meetup and at hackerspaces).
+| 1. | Substrate module: ExoSys | |  
+| 2. | Substrate module: HackeRep | Reputation system for the manual auditors who verify the output recorded by ExoSys. |
+| 3. | Substrate glue: ExoTools |  |  
 
 
 ### Milestone 2 Example — Additional features
 
 - **Estimated Duration:** 1 month
 - **FTE:**  1
-- **Costs:** 20,000 USD
+- **Costs:** 23,000 USD
 
 ...
 
@@ -169,6 +170,10 @@ Please include here
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.
 
+- In the short term we'd like to have the grant so development goes faster. QRUCIAL as a company will keep funding the project until it becomes self-sustaining (meaning, the governance system keeps the DAO running on its own).
+- CCTF (cryptoctf.org) is already a partner, helping to bring the best web3 hackers to the system.
+- Elfz and Trollz is a marketing partner so we don't just develop a DAO, but also make it usable and visually acceptable to all audiences.
+
 
 ## Additional Information :heavy_plus_sign:
 
@@ -176,6 +181,6 @@ Please include here
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+- We already have the litepaper: TBA link
+- QRUCIAL OÜ is paying for the development already.
+- This is the first time we request a grant.
