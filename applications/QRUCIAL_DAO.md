@@ -6,20 +6,20 @@
 
 - **Project Name:** QRUCIAL DAO
 - **Team Name:** QRUCIAL OÜ
-- **Payment Address:** TBA - BTC, Ethereum (USDT/USDC/DAI) or Polkadot/Kusama (aUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
+- **Payment Address:** TBAra33it0 >>  - BTC, Ethereum (USDT/USDC/DAI) or Polkadot/Kusama (aUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
 - **Level:** 2
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up:
 
-If this application is in response to an RFP, please indicate this on the first line of this section.
+TBAra33it0 >> If this application is in response to an RFP, please indicate this on the first line of this section.
 
 If this is an application for a follow-up grant (the continuation of an earlier, successful W3F grant), please provide name and/or pull request of said grant on the first line of this section.
 
 ### Overview
 
-Please provide the following:
+TBAra33it0 >> Please provide the following:
 
 - If the name of your project is not descriptive, a tag line (one sentence summary).
 - A brief description of your project.
@@ -30,17 +30,20 @@ Please provide the following:
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-- The high level overview can be found in the Litepaper: <TBA>
-- Topology TBA
+- TBAra33it0 >> The high level overview can be found in the Litepaper
+- TBAra33it0 >> Topology TBA
 - Research and meeting notes to be added and their results
 - An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
+
+Core components include Substrate, the main Q
+
 - PoC/MVP or other relevant prior work or research on the topic
 - What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
 ### Ecosystem Fit
 
+TBAra33it0 >>
 Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
@@ -77,12 +80,15 @@ QRUCIAL OÜ is a web3 security company.
 
 This is the first time we apply for a grant.
 
-David is a web3 researcher and security expert and founded the largest crypto hacking competition in the world – CCTF – two years ago. He has more than 9 years experience in IT penetration testing and got several global certifications. Since 2021 he is Regional Head Ambassador for Eastern Europe of Polkadot. Since 2013 he is into blockchain and keeps improving his skills through related projects since then.
+Six aka David Pethes is a web3 researcher and security expert and founded the largest crypto hacking competition in the world – CCTF – two years ago. He has more than 9 years experience in IT penetration testing and got several global certifications. Since 2021 he is Regional Head Ambassador for Eastern Europe of Polkadot. Since 2013 he is into blockchain and keeps improving his skills through related projects since then.
 
-ra33it0 intro
-wigy intro
-silur intro
-knockoff intro
+TBAra33it0 >> ra33it0 
+
+Wigy is an ex-Parity substrate developer. He is proficient in coding in Rust.
+
+Silur is working at the Hungarian Academy of Sciences (MTA) as cryptographer, was an early Ethereum developer and still works on cryptocurrency projects.
+
+knockoff is linux system administrator and junior rust developer.
 
 
 ### Team Code Repos
@@ -104,6 +110,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ## Development Status :open_book:
 
+TBAra33it0 >>
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
 - links to improvement proposals or [RFPs](https://github.com/w3f/Grants-Program/tree/master/rfp-proposal) (requests for proposal),
@@ -116,10 +123,8 @@ If you've already started implementing your project or it is part of a larger re
 
 This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Substrate, Kusama or Polkadot. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
+TBAsix >>
 For each milestone,
-
 - make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
 - include the amount of funding requested _per milestone_.
 - include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
@@ -128,45 +133,59 @@ For each milestone,
 - indicate milestone duration as well as number of full-time employees working on each milestone.
 - **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
 
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
 
 - **Total Estimated Duration:** 3 months
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
+- **Full-Time Equivalent (FTE):**  2.67 FTE
+- **Total Costs:** 23,000 USD
 
-### Milestone 1 Example — Implement Substrate Modules
+### Milestone 1 — Implement Substrate Modules
 
-- **Estimated duration:** 3 months
-- **FTE:**  2
+- **Estimated duration:** 1 month
+- **FTE:**  2.5 FTE
 - **Costs:** 20,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | Apache 2.0 |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. Docker images will also be prepared for the Exogenous tools. |
-| 0e. | Article | We will publish **articles** and conduct workshop that explain QRUCIAL DAO. These will appear on QRUCIAL blog and the workshops will be conducted at Polkadot meetups (eg. Polkadot Hungary meetup and at hackerspaces).
-| 1. | Substrate module: ExoSys | |  
-| 2. | Substrate module: HackeRep | Reputation system for the manual auditors who verify the output recorded by ExoSys. |
-| 3. | Substrate glue: ExoTools |  |  
+| 0b. | Documentation v1 | Documentation for the core system, development and basic concepts introduced by QRUCIAL DAO. |
+| 1. | Substrate module: ExoSys | Core system that handles the extrinsics that request ExoTool execution. |  
+| 2. | Substrate module: HackRep | Reputation system for the manual auditors who verify the output recorded by ExoSys. |
 
 
-### Milestone 2 Example — Additional features
+### Milestone 2 — Implement ExoTools and hardened proxy/glue system
+
+- **Estimated duration:** 1 month
+- **FTE:**  1 FTE
+- **Costs:** 20,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | Substrate glue: ExoTools | Includes the tools exogenous to the Substrate system, it is connected through the glue/proxy. |
+
+
+### Milestone 3 — Live test network
 
 - **Estimated Duration:** 1 month
 - **FTE:**  1
 - **Costs:** 23,000 USD
 
-...
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1a. | Unit test and internal security audit conducted against the system created in the 1st milestone. Results will be listed in a report and possibly lead to bug fixes.|
+| 1b. | Report shared publicly about the test and security audit, including technical details. |
+| 2a. | Documentation v2 | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can run her/his own QRUCIAL DAO nodes and send test transactions, which will show how the new functionality works. |
+| 2b. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 2c. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. Images will also be prepared for the Exogenous tools separately. |
+| 2d. | Article | We will publish **articles** and conduct workshop that explain QRUCIAL DAO. These will appear on QRUCIAL blog and the workshops will be conducted at Polkadot meetups (eg. Polkadot Hungary meetup and at hackerspaces).
 
 
 ## Future Plans
 
+TBAra33it0 >>
 Please include here
-
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.
 
