@@ -17,17 +17,17 @@ This is our first time. This is not a follow-up.
 
 ### Overview
 
-Qrucial-DAO is a system for trustless audits, and certification using non-transferable NFTs,exogenous tooling and decentralized Consensus.
+QRUCIAL DAO is a system for trustless audits, and certification using non-transferable NFTs, exogenous tooling and decentralized Consensus.
 
-To us, it is ironic that web3 and trustless systems are trusting web2 auditors and legacy security companies to protect them from threat actors. This is the reason we want to build a system in which the community and the projects can trust that a security assessment has in fact has been done in a professional manner.
-To often, security audits of web3 projects are performed in a way that relies on intransparency and blind trust in a company logo instead of a proof of computation as well as a proof that the auditor is knowledgeble of the task at hand. It seems that many auditing companys are not in security but the pdf business. We want to change this.
+To us, it is ironic that web3 and trustless systems are trusting web2 auditors and legacy security companies to protect them from threat actors. This is the reason we want to build a system in which the community and the projects can trust that a security assessment has in fact been done in a professionally.
+To often, security audits of web3 projects are performed in a way that relies on intransparency and blind trust in a company logo instead of a proof of computation as well as a proof that the auditor is knowledgeable of the task at hand. It seems that many auditing companies are not in security but the PDF business. We want to change this.
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - QDAO is a multichain solution which brings security services and tools to the blockchain. Such services include automated smart contract audits and tools like symbolic analyzers.
-We are the first connecting defensive as well as offensive security tool execution to the blockchain. A Web3 Security Toolkit is to be built, and the tools inside will be executable on QDAO nodes. In the beginning, we will be focusing on auditing tools. The tooling itself is bundled in a container and is being developed and maintained and voted on by qrucial and the DAO though the nominated proof of stake governance system. The distribution of the containers is done through decentralized means. Runtime upgrades are used to update the toolbox on each node.
+We are the first connecting defensive as well as offensive security tool execution to the blockchain. A Web3 Security Toolkit is to be built, and the tools inside will be executable on QDAO nodes. In the beginning, we will be focusing on auditing tools. The tooling itself is bundled in a container and is being developed and maintained and voted on by QRUCIAL and the DAO though the nominated proof of stake governance system. The distribution of the containers is done through decentralized means. Runtime upgrades are used to update the toolbox on each node.
 - Research and meeting notes to be added and their results
 - An overview of the technology stack to be used
 
@@ -73,7 +73,7 @@ This is the first time we apply for a grant.
 
 Six aka David Pethes is a co-founder of QRUCIAL. He is a web3 researcher and security expert and founded the largest crypto hacking competition in the world – CCTF – two years ago. He has more than 9 years experience in IT penetration testing and got several global certifications. Since 2021 he is Regional Head Ambassador for Eastern Europe of Polkadot. Since 2013 he is into blockchain and keeps improving his skills through related projects since then.
 
-ra33it0 aka Sebastian Kraus is a co-founder of QRUCIAL. He is also the founder and strategic mind behind a multitude of companies. His activities range from carbon neutral real estate with Olymp to Cryptocurrency Marketing with Elfzntrollz and information security QRUCIAL aiming to make Web3 more secure.
+ra33it0 aka Sebastian Kraus is a co-founder of QRUCIAL. He is also the founder and strategic mind behind a multitude of companies. His activities range from carbon-neutral real estate with OLYMP to Cryptocurrency Marketing with Elfzntrollz and information security QRUCIAL aiming to make Web3 more secure.
 Back in 2016, he became interested in blockchain and hacking and has since refined his skills in the field.
 
 Wigy is an ex-Parity substrate developer. He is proficient in coding in Rust.
@@ -169,16 +169,16 @@ The PoC is working and we want to move forward in developing a live testnet vers
 
 ## Future Plans
 
-- In the short term we'd like to have the grant so development goes faster. QRUCIAL as a company will keep funding the project until it becomes self-sustaining (meaning, the governance system keeps the DAO running on its own).
+- In the short term, we'd like to have the grant, so development goes faster. QRUCIAL as a company will keep funding the project until it becomes self-sustaining (meaning, the governance system keeps the DAO running on its own).
 - CCTF (cryptoctf.org) is already a partner, helping to bring the best web3 hackers to the system.
-- Elfz and Trollz is a marketing partner so we don't just develop a DAO, but also make it usable and visually acceptable to all audiences.
+- Elfz'n'Trollz is a marketing partner, so we don't just develop a DAO, but also make it usable and visually acceptable to all audiences.
 
 
 ## Additional Information :heavy_plus_sign:
 
 **How did you hear about the Grants Program?** Personal recommendation from Achim Schneider and Jonan.
 
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+Here, you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
 - We already have the litepaper: [https://github.com/Qrucial/QRUCIAL-DAO/blob/main/docs/QRUCIAL%20DAO%20Litepaper%202022.pdf](https://github.com/Qrucial/QRUCIAL-DAO/blob/main/docs/QRUCIAL%20DAO%20Litepaper%202022.pdf)
 - QRUCIAL OÜ started to pay development fees already, but we need the grant to keep it up.
