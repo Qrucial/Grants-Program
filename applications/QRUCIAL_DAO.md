@@ -56,7 +56,7 @@ We are the first connecting defensive as well as offensive security tool executi
 
 ### Contact
 
-- **Contact Name:** Sebastian Kraus
+- **Contact Name:** six / David Pethes
 - **Contact Email:** hello@qrucial.io
 - **Website:** qrucial.io
 
