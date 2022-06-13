@@ -6,7 +6,7 @@
 
 - **Project Name:** QRUCIAL DAO
 - **Team Name:** QRUCIAL OÜ
-- **Payment Address:** TBAra33it0 >>  - BTC, Ethereum (USDT/USDC/DAI) or Polkadot/Kusama (aUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
+- **Payment Address:** TBAsix >>  - BTC, Ethereum (USDT/USDC/DAI) or Polkadot/Kusama (aUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
 - **Level:** 2
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
@@ -19,19 +19,42 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 ### Overview
 
-TBAra33it0 >> Please provide the following:
+Qrucial-DAO is a system for trustless audits, and certifica-
+tion using non-transferable NFTs,exogenous tooling and decentralized Consensus.
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
-- An indication of why your team is interested in creating this project.
+TBAsix - An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
+
+- To us, it is ironic that web3 and trustless systems are trusting
+web2 auditors and legacy security companies to protect
+them from threat actors. This is the reason we want to build
+a system in which the community and the projects can trust
+that a security assessment has in fact has been done in a professional manner.
+To often, security audits
+of web3 projects are performed in a way that relies on intransparency and blind trust in a company logo instead of a proof of computation as well as a proof that the auditor is knowledgeble of the task at hand.
+It seems that many auditing companys are not in security but the pdf business.
+We want to change this.
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-- TBAra33it0 >> The high level overview can be found in the Litepaper
-- TBAra33it0 >> Topology TBA
+- QDAO is a multichain solution which brings security services
+and tools to the blockchain. Such services include automa-
+ted smart contract audits and tools like symbolic analyzers.
+We are the first connecting defensive as well as offensive
+security tool execution to the blockchain.
+A Web3 Security Toolkit is to be built, and the tools inside
+will be executable on QDAO nodes. In the beginning, we will
+be focusing on auditing tools.
+The tooling itself is bundled in a container and is being deve-
+loped and maintained and voted on by qrucial and the DAO
+though the nominated proof of stake governance system.
+The distribution of the containers is done through decentra-
+lized means.
+Runtime upgrades are used to update the toolbox on each
+node.
+
+- TBAsix >> Topology TBA
 - Research and meeting notes to be added and their results
 - An overview of the technology stack to be used
 
@@ -43,7 +66,7 @@ Core components include Substrate, the main Q
 
 ### Ecosystem Fit
 
-TBAra33it0 >>
+TBAsix >>
 Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
@@ -82,7 +105,8 @@ This is the first time we apply for a grant.
 
 Six aka David Pethes is a web3 researcher and security expert and founded the largest crypto hacking competition in the world – CCTF – two years ago. He has more than 9 years experience in IT penetration testing and got several global certifications. Since 2021 he is Regional Head Ambassador for Eastern Europe of Polkadot. Since 2013 he is into blockchain and keeps improving his skills through related projects since then.
 
-TBAra33it0 >> ra33it0 
+ra33it0 aka Sebastian Kraus is the founder and strategic mind behind a multitude of companies. His activities range from Carbon neutral real estate with OLYMP to Crypto-Marketing with Elfzntrollz and information security QRUCIAL aiming to make Web3 more secure.
+Back in 2016, he became interested in blockchain and hacking and has since refined his skills in the field.
 
 Wigy is an ex-Parity substrate developer. He is proficient in coding in Rust.
 
