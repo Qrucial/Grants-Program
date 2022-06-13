@@ -19,8 +19,8 @@ This is our first time. This is not a follow-up.
 
 QRUCIAL DAO is a system for trustless audits, and certification using non-transferable NFTs, exogenous tooling and decentralized Consensus.
 
-To us, it is ironic that web3 and trustless systems are trusting web2 auditors and legacy security companies to protect them from threat actors. This is the reason we want to build a system in which the community and the projects can trust that a security assessment has in fact been done in a professionally.
-To often, security audits of web3 projects are performed in a way that relies on intransparency and blind trust in a company logo instead of a proof of computation as well as a proof that the auditor is knowledgeable of the task at hand. It seems that many auditing companies are not in security but the PDF business. We want to change this.
+To us, it is ironic that web3 and trustless systems are trusting web2 auditors and legacy security companies to protect them from threat actors. This is the reason we want to build a system in which the community and the projects can trust that a security assessment has in fact been done professionally.
+Too often, security audits of web3 projects are performed in a way that relies on intransparency and blind trust in a company logo instead of a proof of computation as well as a proof that the auditor is knowledgeable of the task at hand. It seems that many auditing companies are not in security, but the PDF business. We want to change this.
 
 ### Project Details
 
@@ -106,7 +106,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 We have started the development already, details can be found under this repository:
 [https://github.com/Qrucial/QRUCIAL-DAO](https://github.com/Qrucial/QRUCIAL-DAO)
 
-The PoC is working and we want to move forward in developing a live testnet version.
+The PoC is working, and we want to move forward in developing a live testnet version.
 
 
 ## Development Roadmap :nut_and_bolt:
@@ -159,11 +159,11 @@ The PoC is working and we want to move forward in developing a live testnet vers
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | Unit tests and internal security audit | Code that can be used for testing and an audit conducted against the system created in the 1-2 milestones.|
-| 0b. | Puplic report on security | Report shared publicly about the tests and security audit, including technical details. |
+| 0b. | Public report on security | Report shared publicly about the tests and security audit, including technical details. |
 | 0c. | Documentation v2 | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can run her/his own QRUCIAL DAO nodes and send test transactions, which will show how the new functionality works. |
 | 0d. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 1. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. Images will also be prepared for the Exogenous tools separately. |
-| 2. | Article | We will publish **articles** and conduct workshop that explain QRUCIAL DAO. These will appear on QRUCIAL blog and the workshops will be conducted at Polkadot meetups (eg. Polkadot Hungary meetup and at hackerspaces).
+| 2. | Article | We will publish **articles** and conduct workshop that explain QRUCIAL DAO. These will appear on QRUCIAL blog and the workshops will be conducted at Polkadot meetups (e.g. Polkadot Hungary meetup and at hackerspaces).
 | 2. | Community building | We will start building a larger community for QRUCIAL DAO and improve our partnership with CCTF.
 
 
